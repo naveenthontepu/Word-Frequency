@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Word Count</string>
+    <string name="pleaseWait">Calculating please wait…</string>
+    <string name="select_document">Select Document</string>
+</resources>
